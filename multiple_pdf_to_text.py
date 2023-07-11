@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/13EtjfGdm8Mg7ZyRJT9_GcHggy2SG43mr
 """
 
-pip install PYPDF2
+#pip install PYPDF2
 
 import PyPDF2
 from PyPDF2 import PdfReader
